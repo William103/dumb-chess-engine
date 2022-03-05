@@ -1,0 +1,4 @@
+#+title: My Dumb Chess Engine
+#+author: William
+
+This is an old attempt at writing a chess engine. It is very stupid, but kinda fun to play against.
